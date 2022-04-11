@@ -12,7 +12,7 @@ I'm a GraphQL enthusiasm and passionate learner who's always willing to learn an
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, NestJS, React & React Native <br /> Mongodb, Javascript, Typescript, AWS, Docker, Kubernetes and Terraform.
-- 🚀 &nbsp; I’m a Full Stack Developer currently working at [@Sportall](https://app.sportall.tv).
+- 🚀 &nbsp; I’m a Full Stack Developer currently working [@Sportall](https://app.sportall.tv).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Aloxbro/Aloxbro/issues/new)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: tonello.alexis@orange.fr
