@@ -11,7 +11,7 @@ I'm a GraphQL enthusiasm and passionate learner who's always willing to learn an
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, NestJS, React & React Native <br /> Mongodb, Javascript, Typescript etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, NestJS, React & React Native <br /> Mongodb, Javascript, Typescript <br /> AWS, Docker, Kubernetes, Terraform.
 - 🚀 &nbsp; I’m a Full Stack Developer.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Aloxbro).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Aloxbro/Aloxbro/issues/new)! I am happy to help.
