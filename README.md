@@ -13,7 +13,6 @@ I'm a GraphQL enthusiasm and passionate learner who's always willing to learn an
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, NestJS, React & React Native <br /> Mongodb, Javascript, Typescript, AWS, Docker, Kubernetes and Terraform.
 - 🚀 &nbsp; I’m a Full Stack Developer.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Aloxbro).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Aloxbro/Aloxbro/issues/new)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: tonello.alexis@orange.fr
@@ -21,7 +20,7 @@ I'm a GraphQL enthusiasm and passionate learner who's always willing to learn an
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; meetups & tech events.
 
 ### Languages and Tools:
