@@ -5,13 +5,13 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Aloxbro.Aloxbro&style=flat-square&color=0088cc)
 
-I'm a GraphQL enthusiasm and passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, NestJS, React & React Native <br /> Mongodb, Javascript, Typescript, AWS, Docker, Kubernetes and Terraform.
+- 🛠 &nbsp; I’m currently working with Golang, Rust, Nodejs, React & React Native <br /> GraphQL, Mongodb, Javascript, Typescript, AWS, Docker, Kubernetes and Terraform.
 - 🚀 &nbsp; I’m a Full Stack Developer currently working [@Sportall](https://app.sportall.tv).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Aloxbro/Aloxbro/issues/new)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
@@ -55,8 +55,8 @@ I'm a GraphQL enthusiasm and passionate learner who's always willing to learn an
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>Browser: </b> OperaGX All the wayr</li>
-	    <li><b>Code Editor:</b> VSC also learning neoVim</li>
+  	    <li><b>Browser: </b> OperaGX All the way</li>
+	    <li><b>Code Editor:</b> Vim / neoVim</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
 	</ul>	
