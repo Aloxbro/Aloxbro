@@ -11,8 +11,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Golang, Rust, Nodejs, React & React Native <br /> GraphQL, Mongodb, Javascript, Typescript, AWS, Docker, Kubernetes and Terraform.
-- 🚀 &nbsp; I’m a Full Stack Developer currently working [@Kolecto](www.kolecto.fr).
+- 🛠 &nbsp; I’m currently working with Golang, Rust, Nodejs, Nextjs <br /> GraphQL, Mongodb, SQL, Javascript, Typescript, AWS, Docker, Kubernetes and Terraform.
+- 🚀 &nbsp; I’m a BackEnd Engineer currently working [@Kolecto](www.kolecto.fr).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Aloxbro/Aloxbro/issues/new)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: tonello.alexis@orange.fr
