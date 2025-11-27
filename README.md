@@ -14,7 +14,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🛠 &nbsp; I’m currently working with Golang, Rust, Nodejs, Nextjs <br /> GraphQL, Mongodb, SQL, Javascript, Typescript, AWS, Docker, Kubernetes and Terraform.
 - 🚀 &nbsp; I’m a BackEnd Engineer currently working [@Kolecto](www.kolecto.fr).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Aloxbro/Aloxbro/issues/new)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 ### My Absolute Favorites:
 
